@@ -25,3 +25,101 @@ nav{
     font-size: 16px;
     text-transform: uppercase;
 }
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat , url(../img/bg.jpg) center/cover no-repeat;
+    }
+.title_container{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+.title_container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title_container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+}
+
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 10px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px 14px 0px 14px;
+    
+}
+.about_me{
+    margin: 0px 0px 0px 700px;
+}
+
+.about_me h2{
+    margin: 0px 0px 15px 45px;
+    font-size: 25px;
+}
+
+.about_me_container hr{
+   height: 4px;
+   background: #d17700;
+   width: 50px;    
+   margin: 0px 0px 1px 70px;          
+}
+
+.firstText{
+    margin: 0px 0px 10px -250px;
+}
+.secondText{
+    margin: 0px 0px 0px -250px;
+}
+a{
+    margin: 0px 0px 0px -250px;
+}
+
+.chto{
+    margin: 0px 0px 0px 750px;
+    font-size: 16px;
+}
+span{
+    display: inline-block;
+    width: 200px;
+}
+.skills{
+    float: left;
+    padding-left: 440px;
+}
+.skills_item{
+    float: left;
+    line-height: 17px;
+    margin-right: 40px;
+    
+}
+h2{
+    margin: 10px;
+}
+
+img{
+   margin: 0px 0px 0px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
